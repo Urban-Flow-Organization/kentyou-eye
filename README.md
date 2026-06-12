@@ -43,6 +43,16 @@ The system's interoperability extends to other city services, allowing for cross
 
 ![Mobility Hypervisor](images/mobility_hypervisor.png)
 
+## AI for Soft Mobility Placement
+
+The Soft Mobility Placement Tool is an AI-powered decision support solution designed to help cities accelerate the transition toward sustainable mobility and reduce transportation-related CO₂ emissions.The tool integrates demographic, environmental, economic, mobility, and city service data to identify optimal locations for soft mobility infrastructure such as electric vehicle charging stations, cargo bike hubs, and shared mobility services. By combining machine learning-based area characterization, geospatial analysis, and multi-criteria optimization, the tool evaluates social, environmental, and economic factors to ensure equitable access, minimize environmental impact, and respect budget constraints.
+
+The optimisation process considers multiple criteria, including accessibility, mobility demand, fleet usage patterns, proximity to public transport and mobility hubs, land-use characteristics, and infrastructure constraints. Building upon previous research in sustainable mobility infrastructure localisation, the methodology adapts facility-location optimisation models to support strategic planning for EV charging networks and other soft mobility services. The tool generates data-driven recommendations that balance coverage, accessibility, and deployment costs while promoting social inclusion and sustainable urban development.
+
+To support decision-making, the solution provides an interactive urban mobility dashboard that enables planners and policymakers to visualise candidate sites, compare deployment scenarios, and assess infrastructure coverage through key performance indicators (KPIs). Already validated in European cities such as Barcelona and Paris-Saclay, the platform offers actionable insights that facilitate transparent, evidence-based planning and help local authorities design mobility networks that better serve citizens while advancing environmental and climate goals.
+
+![AI for Soft Mobility Placement](images/mobility_placement.png)
+
 ## Environmental Monitoring – Urban Heat Island Mitigation
 
 As climate change intensifies, cities face the pressing challenge of urban heat islands, which complicate urban adaptation and resilience efforts. Effective mitigation requires a deep understanding of these heat-prone areas to design environments that support sustainable and comfortable living.
