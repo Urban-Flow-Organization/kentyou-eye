@@ -53,7 +53,7 @@ To support decision-making, the solution provides an interactive urban mobility 
 
 ![AI for Soft Mobility Placement](images/mobility_placement.png)
 
-## Environmental Monitoring – Urban Heat Island Mitigation
+## Climate Impact Monitoring – Urban Heat Island Mitigation
 
 As climate change intensifies, cities face the pressing challenge of urban heat islands, which complicate urban adaptation and resilience efforts. Effective mitigation requires a deep understanding of these heat-prone areas to design environments that support sustainable and comfortable living.
 
